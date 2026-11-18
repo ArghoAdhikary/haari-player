@@ -1,0 +1,6 @@
+.build/
+dist/
+*.app
+Vendor/VLCKit.framework/
+Vendor/VLCKit-COPYING.txt
+.DS_Store
